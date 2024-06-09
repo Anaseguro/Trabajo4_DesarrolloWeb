@@ -1,0 +1,10 @@
+PyJWT
+PyMySQL
+Flask
+python-decouple
+gunicorn
+flask-cors
+pytest
+requests
+pymysql
+flask_cors
